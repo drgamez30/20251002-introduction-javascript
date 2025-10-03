@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node excercises/01-excercise.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drgamez30/20251002-introduction-javascript.git"
+    "excercises": "git+https://github.com/drgamez30/20251002-introduction-javascript.git"
   },
   "keywords": [],
   "author": "",
