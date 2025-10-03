@@ -1,1 +1,1 @@
-console.log("diseño web" + new Date ().toLocaleDateString)
+console.log("01-excercises.js")
