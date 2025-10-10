@@ -11,7 +11,8 @@
     "06-ejercicio": "node exercises/06-ejercicio.js",
     "07-ejercicio": "node exercises/07-ejercicio.js",
     "08-ejercicio": "node exercises/08-ejercicio.js",
-    "09-ejercicio": "node exercises/09-ejercicio.js"
+    "09-ejercicio": "node exercises/09-ejercicio.js",
+    "10-ejercicio": "node exercises/10-ejercicio.js"
   },
   "repository": {
     "type": "git",
