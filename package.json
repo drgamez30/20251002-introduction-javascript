@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "ejercicio1": "node exercises/01-excercise.js"
+    "01-ejercicio": "node exercises/01-ejercicio.js",
+    "02-ejercicio": "node exercises/02-ejercicio.js"
   },
   "repository": {
     "type": "git",

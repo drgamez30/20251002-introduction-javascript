@@ -4,6 +4,8 @@
 // concatenación con + y luego usando template strings.
 
 
-let nombre = prompt("Ingresa tu nombre:");
-let hobby = prompt("Ingresa tu hobby:");
+const prompt = require('prompt-sync')();
+
+let nombre = prompt("Ingresa tu nombre: ");
+let hobby = prompt("Ingresa tu hobby: ");
 console.log(`Hola, soy ${nombre} y me gusta ${hobby}.`);
