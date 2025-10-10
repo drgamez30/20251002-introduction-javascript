@@ -6,7 +6,9 @@
     "01-ejercicio": "node exercises/01-ejercicio.js",
     "02-ejercicio": "node exercises/02-ejercicio.js",
     "03-ejercicio": "node exercises/03-ejercicio.js",
-    "04-ejercicio": "node exercises/04-ejercicio.js"
+    "04-ejercicio": "node exercises/04-ejercicio.js",
+    "05-ejercicio": "node exercises/05-ejercicio.js"
+    
   },
   "repository": {
     "type": "git",
